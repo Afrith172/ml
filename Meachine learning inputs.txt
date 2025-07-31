@@ -1,0 +1,20 @@
+support and unsupported:(For application)
+Name of the system holder
+Windows version 
+RAM Space
+Memory available in system
+Memory required for that app
+
+received and not received:( Food delivery )
+Name of the order placer 
+Check address
+Phone number
+Payment done
+OTP verification  
+
+student and staff: ( College )
+Name 
+Graduated year
+Age
+ID number
+5. Timing 
