@@ -1,0 +1,9 @@
+ a person , b person . a person has a 4 rs , b person has a 7 rs . know a person get 3rs from b person. b person get 2rs from a person. after two days a person return 1rs to b person and b person return 1rs to a person. how much does the a person and b person has. a=5 and b=6
+
+raj ha two child both are male. first child has one kid that is female , second child has three kids ( two male and one female). how many kids are there in raj generation. (6)
+
+ a work=15hrs, b work=9hrs . how hours would it take to complete the work if they work together.
+
+total distance=240km
+one hour=20km/hr
+how many hr it take to cover the distance.
