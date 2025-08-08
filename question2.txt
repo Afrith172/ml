@@ -1,0 +1,17 @@
+a=8hr to fill a tank, b=12hr to fill a tank, c=24hr to empty the tank. If the three work together , then how many hrs it take to fill a tank.
+
+Population of a town increases by 8% in first year, 12% in second year . Current population is 50000 . find the a population before 2 years.
+
+A shop keeper buy a product for 800 and sale for 960 . What is the profit?
+
+A students scored 480 marks failed by 20 marks . the pass percentage is 50. What is the total mark?
+
+After 12% increases 2240 rs. What is the original price?
+
+The ratio of boys and girls in the class is 3:5 , there are 24 girls . How many boys are there in a class?
+
+The ratio of red ball to blue ball is 7:9 . What is the factor of red ball?
+
+The ratio of number of apple and orange is 7:4 in basket .Then add 8 orange to basket then ratio become 7:6. find a apple in a basket?
+
+Age of two friends are in the ratio 4:5 . after six years the ratio become 5:6 . find the present age? x=24, y=30
